@@ -1,0 +1,9 @@
+matplotlib==3.2.2
+numpy
+Flask==1.1.2
+pandas
+seaborn==0.10.1
+xgboost==1.2.0
+simplejson==3.17.2
+ipython==7.16.1
+scikit_learn
